@@ -1,0 +1,17 @@
+{
+  "name": "com.habbysdk.habbymail",
+  "displayName": "HabbyMail",
+  "unity": "2019.4",
+  "_upm": {
+    "changelog": "### HabbyMail\n."
+  },
+  "version": "1.0.0",
+  "description": "HabbyMail lib",
+  "dependencies": {
+    "com.habbysdk.besthttplib": "https://github.com/HabbySDK/BestHttpLib.git#1.0.2"
+  },
+  "keywords": [
+    "HabbyMail",
+    "HabbySDK"
+  ]
+}
